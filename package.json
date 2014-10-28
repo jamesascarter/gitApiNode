@@ -1,0 +1,26 @@
+{
+  "name": "gitApiNode",
+  "version": "1.0.0",
+  "description": "Attempt to create GitApi with node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesascarter/gitApiNode"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "jamescarter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesascarter/gitApiNode/issues"
+  },
+  "homepage": "https://github.com/jamesascarter/gitApiNode",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.10.0"
+  }
+}
